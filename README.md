@@ -1,5 +1,9 @@
-# sample-size-classification
+# Sampling methods comparison
 Research on the influence of sample size and selection method on classification quality.
+Dataset used: [Palmer Penguins Dataset for EDA](https://www.kaggle.com/datasets/satyajeetrai/palmer-penguins-dataset-for-eda)
+
+For sample size estimation, the dataset was separated as 75% train (along which sample sizes have been estimated) and 25% test - to ensure stable testing and comparison source for all sample sizes.
+
 Visualized Results:
 
 <img width="975" height="321" alt="image" src="https://github.com/user-attachments/assets/d3c9bfad-f788-4cd4-b424-25f1c926cbf5" />
